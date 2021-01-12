@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name" label="Name" language="en" table="x_569881_learn_now_teacher">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>Name</label>
+            <language>en</language>
+            <name>x_569881_learn_now_teacher</name>
+            <plural>Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-12 05:25:41</sys_created_on>
+            <sys_id>b2bb065bdbad6010e4e47a61399619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name</sys_name>
+            <sys_package display_value="Learn Now Training Management" source="x_569881_learn_now">f4190a97dbad6010e4e47a61399619f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Learn Now Training Management">f4190a97dbad6010e4e47a61399619f5</sys_scope>
+            <sys_update_name>sys_documentation_x_569881_learn_now_teacher_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-12 05:25:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

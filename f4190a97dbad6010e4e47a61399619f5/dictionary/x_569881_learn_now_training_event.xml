@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Training Event" max_length="40" name="x_569881_learn_now_training_event" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Total Number of Registrations" max_length="40" name="total_number_of_registrations" type="integer"/>
+        <element attributes="encode_utf8=false" label="Course" mandatory="true" max_length="32" name="u_reference_1" reference="x_569881_learn_now_course_overview" type="reference"/>
+        <element attributes="encode_utf8=false" label="Location" mandatory="true" max_length="32" name="u_reference_2" reference="x_569881_learn_now_location" type="reference"/>
+        <element attributes="encode_utf8=false" label="Teacher" mandatory="true" max_length="32" name="u_reference_3" reference="x_569881_learn_now_teacher" type="reference"/>
+        <index name="index">
+            <element name="u_reference_2"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_3"/>
+        </index>
+        <index name="index3">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

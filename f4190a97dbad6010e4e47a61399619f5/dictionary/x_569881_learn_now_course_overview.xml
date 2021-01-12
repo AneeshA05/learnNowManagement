@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Course Overview" max_length="40" name="x_569881_learn_now_course_overview" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="300" name="description" type="string"/>
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="price" type="price"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Title" max_length="40" name="title" type="string"/>
+    </element>
+</database>

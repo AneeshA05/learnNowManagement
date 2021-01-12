@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Registrations" max_length="40" name="x_569881_learn_now_registrations" type="collection">
+        <element label="Attended" max_length="40" name="attended" type="boolean"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+    </element>
+</database>

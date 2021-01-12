@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Training Management</description>
+        <device_type>browser</device_type>
+        <hint>Training Management</hint>
+        <name/>
+        <order/>
+        <roles>admin,x_569881_learn_now.teacher,x_569881_learn_now.trainee</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-12 05:32:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>183dca93dbad6010e4e47a613996198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Learn Now Training Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Learn Now Training Management" source="x_569881_learn_now">f4190a97dbad6010e4e47a61399619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Learn Now Training Management">f4190a97dbad6010e4e47a61399619f5</sys_scope>
+        <sys_update_name>sys_app_application_183dca93dbad6010e4e47a613996198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-12 05:32:04</sys_updated_on>
+        <title>Learn Now Training Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

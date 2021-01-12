@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f94f06dbdbad6010e4e47a613996193d" sys_domain="global" table="x_569881_learn_now_trainee" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-12 05:41:11</sys_created_on>
+            <sys_id>3d4f4edbdbad6010e4e47a6139961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_569881_learn_now_trainee" sys_domain="global" view="Default view">f94f06dbdbad6010e4e47a613996193d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-12 05:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-12 05:41:11</sys_created_on>
+            <sys_id>bd4f4edbdbad6010e4e47a6139961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_569881_learn_now_trainee" sys_domain="global" view="Default view">f94f06dbdbad6010e4e47a613996193d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-12 05:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_address</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-12 05:41:11</sys_created_on>
+            <sys_id>314f4edbdbad6010e4e47a6139961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_569881_learn_now_trainee" sys_domain="global" view="Default view">f94f06dbdbad6010e4e47a613996193d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-12 05:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_569881_learn_now_trainee</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-12 05:41:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f94f06dbdbad6010e4e47a613996193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_569881_learn_now_trainee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Learn Now Training Management" source="x_569881_learn_now">f4190a97dbad6010e4e47a61399619f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Learn Now Training Management">f4190a97dbad6010e4e47a61399619f5</sys_scope>
+            <sys_update_name>sys_ui_section_f94f06dbdbad6010e4e47a613996193d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-12 05:41:11</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

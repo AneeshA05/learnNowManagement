@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-12 05:23:29</sys_created_on>
+        <sys_id>e23bce1bdbad6010e4e47a613996198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_569881_learn_now_location.x_569881_learn_now.trainee</sys_name>
+        <sys_package display_value="Learn Now Training Management" source="x_569881_learn_now">f4190a97dbad6010e4e47a61399619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Learn Now Training Management">f4190a97dbad6010e4e47a61399619f5</sys_scope>
+        <sys_security_acl display_value="x_569881_learn_now_location">ea3bce1bdbad6010e4e47a6139961989</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e23bce1bdbad6010e4e47a613996198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-12 05:23:29</sys_updated_on>
+        <sys_user_role display_value="x_569881_learn_now.trainee" name="x_569881_learn_now.trainee">3a494ad7dbad6010e4e47a6139961922</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

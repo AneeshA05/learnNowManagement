@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>end_date</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-12 05:31:19</sys_created_on>
+        <sys_data_policy display_value="Sets the End Date field to mandatory">190dc29bdbad6010e4e47a6139961964</sys_data_policy>
+        <sys_id>1d0dc29bdbad6010e4e47a6139961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>end_date</sys_name>
+        <sys_package display_value="Learn Now Training Management" source="x_569881_learn_now">f4190a97dbad6010e4e47a61399619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Learn Now Training Management">f4190a97dbad6010e4e47a61399619f5</sys_scope>
+        <sys_update_name>sys_data_policy_rule_1d0dc29bdbad6010e4e47a6139961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-12 05:31:19</sys_updated_on>
+        <table>x_569881_learn_now_training_event</table>
+    </sys_data_policy_rule>
+</record_update>
